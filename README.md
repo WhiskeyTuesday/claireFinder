@@ -13,7 +13,7 @@ So it turns out there's some controversy among mathematicians over whether 1 is 
 
 So why is 2 optional then? There's no controversy over whether 2 is prime.
 
-Because as far as I remember Simon says (heh) something like 'All prime numbers, three, five, seven, eleven.' and I thought it was worthwhile (as worthwhile as any of this is) to adjust for that. The wording of this line is also why I disallowed any repeated prime digits other than 1/11, which is to say 22, 33, 55, 77, and 111. It seems logical to me that if he's going to mention 11 he doesn't think 1 is prime, and he also didn't remember any repeated primes. I have obviously overthought this significantly.
+Because as far as I remember Simon says (heh) something like 'All prime numbers, three, five, seven, eleven.' and I thought it was worthwhile (as worthwhile as any of this is) to adjust for that. The wording of this line is also why I disallowed any repeated prime digits other than 1/11, which is to say 22, 33, 55, 77, and 111. It seems logical to me that if he's going to mention 11 he doesn't think 1 is prime, and he also didn't remember any repeated primes. I also figured that a 1 before the hyphen which is generally implied in US-style phone numbers followed by a 1 after it wouldn't count as an 11. I have obviously overthought this significantly.
 
 ```
 if you are more confused now
